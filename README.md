@@ -2,7 +2,7 @@
 - 👀 I’m interested in retro computing.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m open to code improvements.
-- 📫 How to reach me : via email on daveneesondmi@gmail.com
+- 📫 How to reach me : via email on dneesondmi@gmail.com
 - ⚡ Fun fact: 'olo' is a colour you can't see...
 
 <!---
